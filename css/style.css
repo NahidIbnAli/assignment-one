@@ -1,0 +1,12 @@
+.btn-one {
+  color: white !important;
+  background-color: rgb(251, 80, 33) !important;
+}
+
+.btn-two {
+  color: white !important;
+  background-color: blueviolet !important;
+  &:hover {
+    background-color: hotpink !important;
+  }
+}
